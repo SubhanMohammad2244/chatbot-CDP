@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 2
 
 ## Project Overview
 This project is designed to implement a **CDP (Customer Data Platform) Support Chatbot** that assists users in finding documentation for different CDPs, such as Zeotap, Segment, and mParticle. The chatbot retrieves relevant documentation links based on user queries.
